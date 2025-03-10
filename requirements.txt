@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+flask
+beautifulsoup4
+huggingface_hub
+python-dotenv
