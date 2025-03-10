@@ -18,12 +18,12 @@ A versatile chatbot that scrapes web content, creates a knowledge base, and answ
 
 1. Clone the repository and install dependencies:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/saksham-jain177/webpage-knowledge-bot.git
 cd webpage-knowledge-bot
 pip install -r requirements.txt
 ```
 
-2. Create a `.env` file in the project root:
+1. Create a `.env` file in the project root with your API key:
 ```
 OPENROUTER_API_KEY=your_api_key_here
 ```
